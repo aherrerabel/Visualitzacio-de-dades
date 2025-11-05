@@ -1,0 +1,205 @@
+"flagCode","country","DownSyndromePrevalenceOverallEstimate_2019","DownSyndromePrevalenceUpperLimit_2019","DownSyndromePrevalenceLowerLimit_2019"
+"MT","Malta",98.86,122.11,79.1
+"BN","Brunei",97.2,122.16,74.28
+"IE","Ireland",93,116.7,73.15
+"GB","United Kingdom",83.76,103.57,67.44
+"GR","Greece",75.64,95.76,59.82
+"SM","San Marino",75.51,94.14,59.55
+"FI","Finland",74.38,88.45,62.9
+"NL","Netherlands",71.44,82.88,59.93
+"IS","Iceland",70.78,86.77,57.06
+"MC","Monaco",70.78,89.21,55.76
+"AT","Austria",70.08,87.4,56.62
+"AD","Andorra",66.96,83.46,53.32
+"SE","Sweden",66.75,79.94,55.97
+"AR","Argentina",66.35,84.73,50.26
+"SG","Singapore",65.91,85.78,49.59
+"CY","Cyprus",65.62,81.19,53.65
+"DK","Denmark",65.51,81.81,53.37
+"LU","Luxembourg",64.76,79.85,50.91
+"CH","Switzerland",64.33,79.17,51.2
+"PT","Portugal",64.25,79.7,50.94
+"FR","France",64,77.77,52.36
+"BE","Belgium",63.48,78.71,51.09
+"DE","Germany",63.47,78.26,51.89
+"KR","South Korea",62.97,79.52,47.43
+"CL","Chile",62.67,79.07,48.22
+"IL","Israel",61.94,74.97,50.41
+"NO","Norway",60.25,72.94,49.94
+"NZ","New Zealand",58.89,72.89,47
+"JP","Japan",58.1,73.11,44.23
+"UY","Uruguay",55.96,70.63,43.77
+"ES","Spain",54.06,65.42,44.31
+"CA","Canada",51.72,65.75,39.27
+"AU","Australia",49.22,62.89,38.3
+"IT","Italy",48.7,58.58,40.24
+"GL","Greenland",46.94,60.24,36.24
+"AE","United Arab Emirates",44.8,57.48,33.88
+"HT","Haiti",42.72,56.53,32.75
+"DZ","Algeria",41.82,54.69,31.37
+"SY","Syria",40.99,53.02,30.66
+"LY","Libya",40.52,52.27,31.3
+"MA","Morocco",39.4,51.58,29.76
+"OM","Oman",38.86,49.66,29.11
+"US","United States",38.4,45.86,30.65
+"DO","Dominican Republic",37.98,48.47,29.36
+"DM","Dominica",36.07,46.36,28.86
+"YE","Yemen",35.56,48.67,24.83
+"QA","Qatar",35.17,44.27,26.83
+"TT","Trinidad and Tobago",34.34,43.25,27.38
+"SD","Sudan",34.27,46.09,24.68
+"GD","Grenada",33.95,43.19,26.78
+"SV","El Salvador",33.74,44.64,24.92
+"JO","Jordan",33.63,42.72,25.45
+"EG","Egypt",33.52,44.65,25.29
+"LB","Lebanon",33.3,42.75,25.48
+"KN","Saint Kitts and Nevis",32.71,40.73,25.56
+"PL","Poland",32.56,40.6,25.77
+"IQ","Iraq",32.51,43.41,23.48
+"IR","Iran",32.46,41.37,24.7
+"PS","Palestine",32.13,41.14,24.47
+"ID","Indonesia",32.02,41.46,24.88
+"SR","Suriname",32,41.69,24.71
+"BZ","Belize",31.86,40.12,24.98
+"VC","Saint Vincent and the Grenadines",31.83,39.88,25.09
+"BS","Bahamas",31.63,39.57,25.03
+"AF","Afghanistan",31.58,44.86,21.07
+"GT","Guatemala",31.49,40.65,23.96
+"LC","Saint Lucia",31.02,40.82,23.78
+"KW","Kuwait",31.01,40.85,23.37
+"JM","Jamaica",30.93,38.92,24.3
+"TN","Tunisia",30.86,39.55,23.21
+"AG","Antigua and Barbuda",30.49,38.6,23.95
+"BR","Brazil",30.46,39.23,23.33
+"PR","Puerto Rico",30.3,37.17,24.47
+"VE","Venezuela",29.82,37.62,23.69
+"HN","Honduras",29.63,38.74,22.41
+"PY","Paraguay",29.62,37.83,22.15
+"VI","United States Virgin Islands",29.53,36.97,23.57
+"GY","Guyana",29.23,37.53,22.45
+"SA","Saudi Arabia",29.04,37.11,22.62
+"BB","Barbados",28.97,36.97,22.91
+"LT","Lithuania",28.83,36.28,22.48
+"LV","Latvia",28.35,35.86,22.43
+"NI","Nicaragua",27.94,35.83,21.04
+"MD","Moldova",27.66,36,21.06
+"UA","Ukraine",27.33,35.29,20.62
+"TR","Turkey",27.25,35.77,20.19
+"BY","Belarus",27.17,35.36,20.65
+"BH","Bahrain",26.98,34.29,20.61
+"EE","Estonia",26.79,32.99,21.31
+"RU","Russia",26.22,33.79,19.85
+"CO","Colombia",26.02,33.26,19.53
+"LS","Lesotho",25.06,32.76,18.65
+"CU","Cuba",24.72,30.66,19.47
+"PA","Panama",23.5,29.39,18.24
+"BM","Bermuda",23.5,29.24,18.86
+"MX","Mexico",23.48,29.35,18.25
+"BG","Bulgaria",22.81,28.77,17.64
+"GE","Georgia",22.75,29.12,17.54
+"CR","Costa Rica",22.41,28.79,16.89
+"ZW","Zimbabwe",22.22,29.07,16.68
+"SZ","Eswatini",22.05,28.54,16.91
+"HU","Hungary",21.72,27.45,16.94
+"BA","Bosnia and Herzegovina",21.51,27.08,16.52
+"ME","Montenegro",21.48,26.85,16.59
+"TM","Turkmenistan",20.91,26.91,15.57
+"MN","Mongolia",20.81,27.58,15.67
+"BW","Botswana",20.78,27.31,15.46
+"HR","Croatia",20.33,25.64,15.89
+"NA","Namibia",20.2,26.05,15.11
+"KZ","Kazakhstan",19.97,26.14,14.85
+"MK","North Macedonia",19.94,25.34,14.9
+"BO","Bolivia",19.86,25.73,14.86
+"RO","Romania",19.82,25.75,15.23
+"MM","Myanmar",19.81,25.76,15.11
+"EC","Ecuador",19.74,25.17,14.8
+"TL","Timor-Leste",19.22,25.36,14.63
+"AZ","Azerbaijan",19.17,25.51,14.18
+"TJ","Tajikistan",19.04,25.18,14.48
+"SI","Slovenia",18.91,24.26,14.75
+"KG","Kyrgyzstan",18.81,24.41,14.11
+"SK","Slovakia",18.67,23.27,14.46
+"AL","Albania",18.65,23.54,14.45
+"RS","Serbia",18.47,22.75,14.49
+"UZ","Uzbekistan",18.36,24.82,13.59
+"ZA","South Africa",17.87,22.91,13.77
+"LA","Laos",17.85,23.43,13.45
+"CZ","Czechia",17.63,23.23,13.46
+"AM","Armenia",17.52,22.39,13.37
+"PE","Peru",16.95,22.39,12.66
+"SC","Seychelles",16.25,21.58,12.14
+"KH","Cambodia",16,21.13,12.01
+"SB","Solomon Islands",15.99,21.85,11.64
+"FJ","Fiji",15.94,20.62,11.76
+"GW","Guinea-Bissau",15.87,20.21,12.18
+"PH","Philippines",15.67,20.27,12.03
+"MU","Mauritius",15.55,21,11.72
+"MH","Marshall Islands",15.03,20.14,11.08
+"PG","Papua New Guinea",14.93,19.79,10.92
+"TH","Thailand",14.81,19.48,11.09
+"KI","Kiribati",14.76,19.81,10.76
+"LK","Sri Lanka",14.74,19.88,10.98
+"MV","Maldives",14.68,19.51,10.83
+"FM","Micronesia",14.67,19.22,10.92
+"CI","Ivory Coast",14.39,18.34,11.03
+"CN","China",14.29,18.68,10.82
+"SN","Senegal",14.05,18.04,10.72
+"PK","Pakistan",14.01,18.51,10.48
+"VN","Vietnam",13.8,18.15,10.38
+"MY","Malaysia",13.67,18.22,10.27
+"BF","Burkina Faso",13.48,17.29,10.08
+"KP","North Korea",13.43,18.06,9.8
+"NR","Nauru",13.4,17.78,9.8
+"CG","Republic of the Congo",13.25,17.23,10.19
+"VU","Vanuatu",13.18,17.92,9.59
+"TV","Tuvalu",13.18,17.6,9.51
+"GH","Ghana",13.04,16.61,9.96
+"ST","Sao Tome and Principe",13.04,16.6,10.01
+"TK","Tokelau",12.98,16.65,9.79
+"BD","Bangladesh",12.95,17.06,9.68
+"TO","Tonga",12.95,16.67,9.77
+"MR","Mauritania",12.91,16.54,9.81
+"BT","Bhutan",12.89,16.83,9.58
+"GM","Gambia",12.86,16.51,9.84
+"BI","Burundi",12.83,16.74,9.61
+"PW","Palau",12.79,16.66,9.59
+"MW","Malawi",12.67,16.32,9.45
+"WS","Samoa",12.65,16.56,9.51
+"TG","Togo",12.6,16.17,9.61
+"NU","Niue",12.53,15.95,9.35
+"GA","Gabon",12.51,16.28,9.41
+"TW","Taiwan",12.33,16.1,9.39
+"RW","Rwanda",12.33,16.18,9.18
+"SL","Sierra Leone",12.33,16,9.49
+"CD","DR Congo",12.28,15.98,9.36
+"AS","American Samoa",12.25,16,9.33
+"CF","Central African Republic",12.2,16.19,8.89
+"CM","Cameroon",12.11,15.56,9.34
+"DJ","Djibouti",12.06,15.7,9.11
+"ML","Mali",11.89,15.41,9.07
+"AO","Angola",11.78,15.49,8.94
+"GN","Guinea",11.75,15.3,8.94
+"TZ","Tanzania",11.73,15.4,8.53
+"MP","Northern Mariana Islands",11.7,15.29,8.78
+"UG","Uganda",11.61,15.23,8.77
+"MZ","Mozambique",11.61,15.31,8.77
+"LR","Liberia",11.58,14.89,8.82
+"ZM","Zambia",11.57,15.01,8.61
+"BJ","Benin",11.32,14.55,8.59
+"GQ","Equatorial Guinea",11.27,14.74,8.46
+"CK","Cook Islands",11.22,14.79,8.31
+"KM","Comoros",10.94,14.02,8.25
+"IN","India",10.78,13.9,8.25
+"NE","Niger",10.78,14.02,8.07
+"TD","Chad",10.75,13.96,8.08
+"MG","Madagascar",10.74,14.25,8.18
+"ER","Eritrea",10.74,13.81,7.99
+"NP","Nepal",10.64,14.14,7.88
+"SO","Somalia",10.53,13.97,7.83
+"KE","Kenya",10.05,12.96,7.72
+"GU","Guam",9.96,13.2,7.56
+"NG","Nigeria",9.85,12.7,7.54
+"SS","South Sudan",9.15,12.22,6.76
+"CV","Cape Verde",8.34,10.82,6.27
+"ET","Ethiopia",7.79,10.13,5.84
