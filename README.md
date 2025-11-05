@@ -15,6 +15,6 @@ Les llibreries que he utilitzat per fer els gràfics a R Studio són les següen
 - library(tidyverse)  
 
 A Python:
-- pandas as pd
-- import network
+- pandas
+- network
 - matplotliB
